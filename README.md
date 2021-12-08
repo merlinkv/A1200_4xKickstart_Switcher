@@ -25,6 +25,6 @@ https://www.winuaespanol.com/phpbb3/viewtopic.php?f=32&t=1168
 
 # Description
 
-A Kickstart switcher for the A1200D or A1200T allowing to use up to 4 Kickstart's of 1MByte each.
+A Kickstart switcher for the A1200D or A1200T allowing to use up to 4 Kickstart's of 512Kb or 1MB.
 
-Based on two M27C160 EPROM's.
+Based on two M27C160 EPROM's but also MX29F1615 EEPROM's can be used.
